@@ -1,0 +1,230 @@
+.navbar .navbar-nav li{
+    margin-left: 2px;
+    margin-right: 2px;
+
+}
+.navbar .navbar-nav li:hover{
+    background-color: #003674;
+    margin-left: 2px;
+    margin-right: 2px;
+
+}
+
+.navbar .navbar-nav .active{
+    background-color: #003674;
+
+}
+
+
+.clobe{
+    background-color: rgba(0, 0, 0, 0.7);
+
+}
+.div1-collapse{
+    display: block;
+}
+.navbar-brand img{
+    width: 80px;
+}
+.transformer{
+    font-size: 13px;
+}
+.div-2-article-2-row h6{
+    font-size: 17px;
+    color: blue;
+    
+}
+.section-header{
+     
+    background-image: url(../image/batiment.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+
+.social-links {
+    display: flex; /* Alignement horizontal */
+    gap: 15px; /* Espacement entre les icônes */
+    align-items: center;
+    justify-content: center;
+}
+
+.social-links a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    border-radius: 50%;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+/* Styles spécifiques à chaque réseau */
+.social-links .facebook {
+    background-color: #3b5998;
+}
+
+.social-links .instagram {
+    background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+}
+
+.social-links .twitter {
+    background-color: #1da1f2;
+}
+
+.social-links .whatsapp {
+    background-color: #25d366;
+}
+
+.social-links .youtube {
+    background-color: #ff0000;
+}
+
+/* Effet au survol */
+.social-links a:hover {
+    transform: scale(1.1);
+    opacity: 0.9;
+}
+
+
+
+.diviser .card h5{
+    color: #000988;
+    font-weight: 800;
+}
+.diviser{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    
+}
+
+.diviser .card p{
+    color: #3a3a3a;
+}
+
+.vianney{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagecard{
+    height: 400px;
+}
+
+.maintenance-icon {
+    font-size: 2rem; /* Adjust size as needed */
+    color: #2c2c2c;
+}
+
+
+.line-after-header{
+    opacity: 0,5;
+    border: 2px solid rgb(182, 244, 255);
+    background-color: #00133d;
+}
+
+.a-propos{
+    background-color: #00065f;
+}
+
+
+.partner-card img {
+    max-width: 100px; /* Taille maximale des images */
+    margin: 0 auto; /* Centrer horizontalement */
+  }
+  .partner-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: 2px solid rgb(255, 255, 255);
+    box-shadow:0 2px 3px rgba(0, 0, 0, 0.2);
+  }
+  .partner-card:hover {
+    transform: translateY(-5px); /* Effet de soulèvement au survol */
+    box-shadow: 0 8px 19px rgba(12, 48, 255, 0.2); /* Ombre plus marquée */
+  }
+
+/* Section Conception */
+.conception {
+    
+    padding: 30px;
+    background-color: #082545;
+    color: rgb(255, 255, 255);
+    border-radius: 8px; /* Ajouter un léger arrondi aux bords */
+}
+
+/* Titre de section */
+.conception h4 {
+    font-size:2rem; /* Taille de police plus grande pour le titre */
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+/* Texte justifié */
+.text-justify {
+    text-align: justify;
+    line-height: 1.6; /* Améliorer l'espacement entre les lignes pour plus de lisibilité */
+    margin-bottom: 20px;
+}
+
+.text-justify p{
+    font-size: 19px;
+}
+.text-justify ol li{
+    font-size: 19px;
+}
+
+/* Ajout de marges sous les images */
+.row img {
+    margin-bottom: 20px; /* Espacement entre les images */
+}
+
+/* Ajout d'un effet de survol */
+.row img:hover {
+    transform: scale(1.05); /* Légère augmentation de la taille des images au survol */
+    transition: transform 0.3s ease-in-out;
+}
+
+
+
+/* Section Infographie */
+.infographie {
+    padding: 30px;
+    background-color: #0b3e79;
+    color: #ffffff;
+    border-radius: 8px;
+}
+
+/* Texte de la section Infographie */
+.infographie h4 {
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+/* Espacement entre les éléments dans chaque ligne */
+.row img {
+    margin-bottom: 20px; /* Ajoute un espace entre l'image et le texte */
+}
+
+/* Effet de survol pour les images */
+.row img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Pour les textes */
+.infographie p {
+    font-size: 19px;
+    line-height: 1.6;
+}
+
+
