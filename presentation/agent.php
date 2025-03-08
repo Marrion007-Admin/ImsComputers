@@ -92,7 +92,7 @@
     <!-- Introduction -->
     <section class="team-intro">
         <p>
-            Chez IMS Computeur, notre équipe est notre plus grande force. Composée de professionnels passionnés et experts, nous repoussons les limites de l'innovation pour offrir des solutions technologiques de pointe. Découvrez les membres de notre équipe ci-dessous.
+            Chez IMS Computeur, notre équipe est notre plus grande force. Composée de professionnels passionnés et experts, nous repoussons les limites de l'innovation pour offrir des solutions technologiques de pointe. Découvrez les membres de notre équipe.
         </p>
     </section>
 
@@ -105,60 +105,60 @@
                 <h3>Marrion SETH</h3>
                 <p>Développeur Full-Stack</p>
                 <div class="team-card-links">
-                    <a href="https://www.linkedin.com/in/jeandupont" target="_blank">LinkedIn</a>
-                    <a href="mailto:jean.dupont@imscomputeurl.com">Email</a>
+                    <a href="https://www.linkedin.com/in/marrionseth" target="_blank">LinkedIn</a>
+                    <a href="mailto:marrionseth@imscomputeurl.com">Email</a>
                 </div>
             </div>
         </div>
 
         <!-- Carte 2 -->
         <div class="team-card">
-            <img src="../style/image/anis.png" alt="Photo de l'agent 1">
+            <img src="../style/image/anis.png" alt="Photo de l'agent 2">
             <div class="team-card-content">
                 <h3>Anis GOFAK</h3>
                 <p>Designer graphique</p>
                 <div class="team-card-links">
-                    <a href="https://www.linkedin.com/in/mariemartin" target="_blank">LinkedIn</a>
-                    <a href="mailto:marie.martin@imscomputeurl.com">Email</a>
+                    <a href="https://www.linkedin.com/in/anisgofak" target="_blank">LinkedIn</a>
+                    <a href="mailto:marie.anisgofak@imscomputeurl.com">Email</a>
                 </div>
             </div>
         </div>
 
         <!-- Carte 3 -->
         <div class="team-card">
-            <img src="../style/image/Jude.jpg" alt="Photo de l'agent 1">
+            <img src="../style/image/Jude.jpg" alt="Photo de l'agent 3">
             <div class="team-card-content">
                 <h3>Jude BELA</h3>
                 <p>Développeur Front-End</p>
                 <div class="team-card-links">
-                    <a href="https://www.linkedin.com/in/pierrelambert" target="_blank">LinkedIn</a>
-                    <a href="mailto:pierre.lambert@imscomputeurl.com">Email</a>
+                    <a href="https://www.linkedin.com/in/jude-bela" target="_blank">LinkedIn</a>
+                    <a href="mailto:pierre.judebela@imscomputeurl.com">Email</a>
                 </div>
             </div>
         </div>
 
         <!-- Carte 4 -->
         <div class="team-card">
-            <img src="../style/image/Vianney.jpg" alt="Photo de l'agent 1">
+            <img src="../style/image/Vianney.jpg" alt="Photo de l'agent 4">
             <div class="team-card-content">
                 <h3>vianney DOUMBENENY</h3>
-                <p>Admin Reseau|Systeme</p>
+                <p>Admin Reseau | Systeme</p>
                 <div class="team-card-links">
-                    <a href="https://www.linkedin.com/in/sophieleroy" target="_blank">LinkedIn</a>
-                    <a href="mailto:sophie.leroy@imscomputeurl.com">Email</a>
+                    <a href="https://www.linkedin.com/in/vianneydoumbeneny" target="_blank">LinkedIn</a>
+                    <a href="mailto:vianneydoumbeneny@imscomputeurl.com">Email</a>
                 </div>
             </div>
         </div>
 
         <!-- Carte 5 -->
         <div class="team-card">
-            <img src="../style/image/Youch.png" alt="Photo de l'agent 1">
+            <img src="../style/image/Youch.png" alt="Photo de l'agent 5">
             <div class="team-card-content">
                 <h3>Youch BOUYOBA</h3>
                 <p>Community Manager</p>
                 <div class="team-card-links">
-                    <a href="https://www.linkedin.com/in/luciepetit" target="_blank">LinkedIn</a>
-                    <a href="mailto:lucie.petit@imscomputeurl.com">Email</a>
+                    <a href="https://www.linkedin.com/in/youchbouyoba" target="_blank">LinkedIn</a>
+                    <a href="mailto:youchbouyoba@imscomputeurl.com">Email</a>
                 </div>
             </div>
         </div>
