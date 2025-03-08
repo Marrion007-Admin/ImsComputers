@@ -1,79 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Accueil - IMS COMPUTER</title>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="style/bootstrap/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="style/icons/font/bootstrap-icons.min.css">
-    <script src="style/bootstrap/dist/js/bootstrap.bundle.min.js" defer></script>
-    <link rel="stylesheet" href="style/css/style.css">
-    <link rel="icon" href="style/image/LOGOIMS.png">
-</head>
-
-<body class="bg-white">
-    <section class="section-header">
-
-        <div class="clobe">
-            <header class="navbar navbar-expand-lg mx-3">
-                <button class="navbar-toggler border-0 text-white" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
-                    aria-label="Toggle navigation">
-                    <i class="bi bi-list h2"></i>
-                </button>
-                <div class="collapse navbar-collapse justify-content-center mt-4 p-2 div1-collapse" id="navbarNav">
-                    <ul class="navbar-nav justify-content-center border border-white border-2 rounded-2 p-1">
-                        <li class="nav-item px-4 ps-4 text-white active">
-                            <a class="nav-link text-white" aria-current="page" href="index.html">Accueil</a>
-                        </li>
-                        <li class="nav-item px-4 text-white">
-                            <a class="nav-link text-white" href="presentation/contact.html">Contact</a>
-                        </li>
-                        <li class="nav-item px-4 ">
-                            <a class="nav-link text-white" href="presentation/services.html">Services</a>
-                        </li>
-                        <li class="nav-item px-4 ">
-                            <a href="presentation/about.html" class="nav-link text-white">A Propos</a>
-                        </li>
-                        <li class="nav-item px-3 ps-4 ">
-                            <a href="presentation/agent.html" class="nav-link text-white ">Agents</a>
-                        </li>
-                    </ul>
-                </div>
-            </header>
-            <div class="justify-content-center text-center mt-1">
-                <a href="" class="navbar-brand">
-                    <img src="style/image/LOGOIMS.png" class="" alt="">
-                </a> <br>
-                <div class="mt-3">
-                    <h5 class="text-white text-uppercase">Bienvenue sur IMS COMPUTER</h5>
-                    <p class="text-white transformer p-2">Transformez vos idées en réalité numérique avec des solutions
-                        innovantes, <br>
-                        fiables et adaptées à vos besoins. <span class="fw-bold">IMS COMPUTER</span></p>
-                </div>
-                <div class="social-links pb-2">
-                    <a href="https://facebook.com" target="_blank" class="facebook" title="Facebook">
-                        <i class="bi bi-facebook"></i>
-                    </a>
-                    <a href="https://instagram.com" target="_blank" class="instagram" title="Instagram">
-                        <i class="bi bi-instagram"></i>
-                    </a>
-                    <a href="https://twitter.com" target="_blank" class="twitter" title="Twitter">
-                        <i class="bi bi-twitter"></i>
-                    </a>
-                    <a href="https://whatsapp.com" target="_blank" class="whatsapp" title="WhatsApp">
-                        <i class="bi bi-whatsapp"></i>
-                    </a>
-                    <a href="https://youtube.com" target="_blank" class="youtube" title="YouTube">
-                        <i class="bi bi-youtube"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-
-    </section>
+<?php 
+    ob_start();
+?>
 
     <section>
         <!--LES CARDS=========== -->
@@ -112,6 +39,10 @@
                 </div>
             </div>
         </div><br>
+
+        <div class="text-center">
+            <a href="presentation/services.php" class="btn btn-info text-white fw-bold" type="button">Voir Plus +</a>
+        </div>
     </section> <br>
 
 
@@ -123,7 +54,7 @@
             <div class="col-md-6 col-12 d-flex justify-content-center align-items-center">
                 <p class="text-justify text-white"> <span class="text-uppercase fw-bold fs-4 text-white"><i
                             class="bi bi-buildings-fill text-warning me-2"></i> à propos</span> <br> <br> Fondée le 21
-                    novembre 2023, IMS Computer est une entreprise innovante et dynamique, spécialisée dans les
+                    novembre 2023, IMS Computers est une entreprise innovante et dynamique, spécialisée dans les
                     solutions informatiques sur mesure, conçues pour répondre aux enjeux technologiques d'aujourd'hui.
                     Forts de l'expertise et de la passion de notre équipe, nous proposons une large gamme de services
                     professionnels, visant à accompagner aussi bien les particuliers que les entreprises dans leur
@@ -176,7 +107,7 @@
             <h4 class="text-center text-uppercase fw-bold">Conception Web</h4>
             <div class="mx-sm-5 mx-2 text-justify">
                 <p class="mx-4">
-                    Chez <span class="text-warning">IMS Computer</span>, nous comprenons que votre site web est bien
+                    Chez <span class="text-warning">IMS Computers</span>, nous comprenons que votre site web est bien
                     plus qu'une simple présence en ligne : c'est une vitrine de votre marque, une plateforme pour
                     engager vos clients, et souvent le premier point de contact entre vous et votre public. C'est
                     pourquoi nous avons développé une approche complète et personnalisée pour la conception web, qui
@@ -252,7 +183,7 @@
                 </ol>
 
                 <p class="fs-6">
-                    Chez <span class="fw-bold text-warning">IMS Computer</span>, nous concevons des sites web modernes,
+                    Chez <span class="fw-bold text-warning">IMS Computers</span>, nous concevons des sites web modernes,
                     performants et adaptés aux besoins spécifiques de nos clients. De l’analyse stratégique à la mise en
                     ligne, notre approche inclut un design graphique personnalisé, une compatibilité multi-appareils, et
                     une navigation intuitive. Nous restons à vos côtés pour le support technique et la maintenance,
@@ -286,7 +217,7 @@
             <h4 class="text-center text-uppercase fw-bold">Infographie</h4>
             <div class="mx-sm-5 mx-2 text-justify">
                 <p class="mx-4">
-                    Chez <span class="text-warning">IMS Computer</span>, nous savons qu'une infographie bien conçue peut transformer une idée complexe en un message simple et visuel. Nous créons des infographies uniques pour aider à clarifier vos messages et captiver votre public. Que ce soit pour des présentations, des rapports, ou des publications en ligne, nos infographies rendent vos données compréhensibles et attrayantes.
+                    Chez <span class="text-warning">IMS Computers</span>, nous savons qu'une infographie bien conçue peut transformer une idée complexe en un message simple et visuel. Nous créons des infographies uniques pour aider à clarifier vos messages et captiver votre public. Que ce soit pour des présentations, des rapports, ou des publications en ligne, nos infographies rendent vos données compréhensibles et attrayantes.
                 </p>
     
                 <!-- Première ligne : Texte à gauche et image à droite -->
@@ -379,7 +310,7 @@
                         <img src="style/image/pama.jpg" alt="Partenaire 4" class="card-img-top">
                         <div class="card-body">
                             <h5 class="card-title">MARRION SETH</h5>
-                            <a href="presentation/developpeWeb.html" class="text-decoration-none card-text">Expert en
+                            <a href="presentation/developpeWeb.php" class="text-decoration-none card-text">Expert en
                                 Développement Front-End...</a> <a href="https://wa.me/221775969897" target="_blank"><i
                                     class="bi bi-whatsapp text-success"></i></a>
                         </div>
@@ -445,7 +376,7 @@
     </section> <br> -->
 
 
-
-</body>
-
-</html>
+<?php
+$contenu_page = ob_get_clean();
+require_once('layout.php');
+?>
