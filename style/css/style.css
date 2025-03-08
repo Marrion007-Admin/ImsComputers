@@ -226,5 +226,50 @@
     font-size: 19px;
     line-height: 1.6;
 }
+/* about */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #333;
+}
+.section {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
 
+.im {
+    width: 90%;
+    height: 65%;
+    border-radius: 10px;
+}
+.im1 {
+    width: 90%;
+    height: 90%;
+    border-radius: 10px;
+}
+.im2 {
+    width: 90%;
+    height: 65%;
+    border-radius: 10px;
+}
+.section .text {
+    width: 55%;
+    margin-left: 5%;
+}
+h2 {
+    color: #232f3e;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+.footer {
+    background-color: #232f3e;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    font-size: 16px;
+}
 
