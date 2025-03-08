@@ -154,7 +154,7 @@
     
     <div class="services-container">
         <div class="service-card">
-            <img src="dev.png" alt="Développement Web & Applications">
+            <img src="../style/imange/dev.png" alt="Développement Web & Applications">
             <div class="service-content">
                 <h3>Développement Web & Mobile</h3>
                 <p>Création de sites web et d’applications sur-mesure adaptées à votre activité.</p>
@@ -162,7 +162,7 @@
             </div>
         </div>
         <div class="service-card">
-            <img src="logo.png" alt="Identité Visuelle">
+            <img src="../style/imange/logo.png" alt="Identité Visuelle">
             <div class="service-content">
                 <h3>Identité Visuelle</h3>
                 <p>Conception de logos, affiches et flyers pour une image de marque attrayante selon votre business.</p>
@@ -170,7 +170,7 @@
             </div>
         </div>
         <div class="service-card">
-            <img src="vente.png" alt="Vente de Matériel Informatique">
+            <img src="../style/imange/vente.png" alt="Vente de Matériel Informatique">
             <div class="service-content">
                 <h3>Vente de Matériel Informatique</h3>
                 <p>Large choix d’équipements performants : ordinateurs, disques durs, etc.</p>
@@ -178,7 +178,7 @@
             </div>
         </div>
         <div class="service-card">
-            <img src="mainte.png" alt="Installation & Maintenance">
+            <img src="../style/imange/mainte.png" alt="Installation & Maintenance">
             <div class="service-content">
                 <h3>Installation & Maintenance</h3>
                 <p>Installation et activation de Windows et Microsoft Office avec partitionnement.</p>
@@ -186,7 +186,7 @@
             </div>
         </div>
         <div class="service-card">
-            <img src="pro.png" alt="Créativité & Design">
+            <img src="../style/imange/pro.png" alt="Créativité & Design">
             <div class="service-content">
                 <h3>Créativité & Design</h3>
                 <p>Activation de Canva Pro et CapCut Pro pour du contenu professionnel de qualité.</p>
@@ -194,7 +194,7 @@
             </div>
         </div>
         <div class="service-card">
-            <img src="mainte.png" alt="Réparation & Maintenance">
+            <img src="../style/imange/mainte.png" alt="Réparation & Maintenance">
             <div class="service-content">
                 <h3>Réparation & Maintenance</h3>
                 <p>Diagnostic rapide et réparation efficace de votre PC.</p>
