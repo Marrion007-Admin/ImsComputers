@@ -272,4 +272,20 @@ h2 {
     margin-top: 40px;
     font-size: 16px;
 }
+* annimation video */
+.hover-video {
+    width: 100%;             /* La vidéo occupe 100% de la largeur du conteneur */
+    max-width: 100%;         /* Ne dépasse pas la largeur de l'écran */
+    height: auto;            /* La hauteur s'ajuste automatiquement */
+    max-height: 500px;       /* Limite la hauteur maximale */
+    object-fit: cover;       /* Remplit l’espace sans déformation, avec découpe si nécessaire */
+    border-radius: 10px;     /* Arrondi des coins (optionnel) */
+    transition: transform 0.3s ease-in-out;
+}
+
+.hover-video:hover {
+    transform: scale(1.05);  /* Zoom au survol */
+}
+
+
 
